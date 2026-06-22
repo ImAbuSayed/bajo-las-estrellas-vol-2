@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo las estrellas, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Bajo las estrellas, Vol. 2** (bajo-las-estrellas-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:30:53.602538 | `v1` | `37ebf9b1cd7d4533379e30dbb18620476219e2265ff98e8ff218f3884c5c3268` | `bbdb06555948ce6ed310a3e23d25093d1ccdc778f3bfdfda3e524f4eb4aa0951` | `2026-06-23_bajo-las-estrellas-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
