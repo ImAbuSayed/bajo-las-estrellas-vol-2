@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-las-estrellas-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bajo las estrellas, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-las-estrellas-vol-2/) |
+| **Get License** | [Official Music Licensing for Bajo las estrellas, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-las-estrellas-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo las estrellas, vol. 2
+> Tu cuerpo llama, yo respondo
+> La noche es nuestra, nadie más
+> Dame tu calor, sin mirar atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
